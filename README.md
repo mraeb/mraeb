@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balaji</h1>
-<h3 align="center">Java Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 - 🔭 I’m currently working on [Online Cloth Store](It will be a shopping website)
 
