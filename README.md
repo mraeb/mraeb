@@ -1,8 +1,8 @@
-# Hi 👋, I'm Balaji S
+# Hi 👋, I'm Balaji
 
 ### A budding Java developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mraeb&label=Profile views&color=0e75b6&style=flat" alt="mraeb" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mraeb&label=Profile views&color=0e75b6&style=flat" alt="mraeb" /> </p> -->
 
 - 🔭 I'm currently working on **Clothing Store Website**
 
