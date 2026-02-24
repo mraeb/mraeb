@@ -1,6 +1,6 @@
 # Hi 👋, I'm Balaji
 
-### A budding Java developer
+### A budding Software Developer
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mraeb&label=Profile views&color=0e75b6&style=flat" alt="mraeb" /> </p> -->
 
